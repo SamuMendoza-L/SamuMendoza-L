@@ -12,3 +12,8 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/s.mndz098/)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mendoza-45603b325/)
+
+### :zap: Avtividad reciente
+<!--STAR_SECTION:activity-->
+
+<!--END_SECTION:activity-->
