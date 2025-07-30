@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola, soy Samuel 👋
 
 :student: **Estudiante de Ingenieria informatica**  
 :computer: **Apasionado por la programación con Python y desarrollo web**  
