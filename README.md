@@ -4,8 +4,6 @@
 :computer: **Apasionado por la programación con Python y desarrollo web**  
 :books: **En formación constante**  
 :rocket: **Construyendo proyectos reales mientras estudio**  
-🇨🇴 **Colombia**  
-:oncoming_automobile: **Fan de los autos deportivos**
 
 ### 🌐 Mis redes sociales
 
